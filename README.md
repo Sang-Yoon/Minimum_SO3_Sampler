@@ -41,7 +41,19 @@ python3 pose_vis.py
 
 - Verify that the number of samples is really optimal and calculate the probability of convergence
 
-```abash
+```bash
 # Under construction
 python3 convergence_test.py
 ```
+
+- Visualize uniform & incremental sampling using gif(Euler angle, Quarternion, axis-angle representation)
+
+```bash
+python3 vis_other_representations.py
+```
+
+<p align="center">
+  <img src="images/gifs/euler_angles.gif" alt="Euler angle" width="300"/>
+  <img src="images/gifs/quaternions_3d.gif" alt="Quaternion in 3D" width="300"/>
+  <img src="images/gifs/rotation_vectors.gif" alt="Axis-angle representation" width="300"/>
+</p>

@@ -31,9 +31,13 @@ python3 optimal_pose_samples.py
 
 - Save the image after rendering the object to the optimal number of pose samples
 
+<div align=center><img width="50%" height="50%" src="images/optimal_pose_samples_remove_outliers.png"/></div>
+
 ```bash
 python3 pose_vis.py
 ```
+
+<div align=center><img width="50%" height="50%" src="images/housing.png"/></div>
 
 - Verify that the number of samples is really optimal and calculate the probability of convergence
 

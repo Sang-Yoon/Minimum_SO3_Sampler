@@ -53,7 +53,7 @@ python3 vis_other_representations.py
 ```
 
 <p align="center">
-  <img src="images/gifs/euler_angles.gif" alt="Euler angle" width="300"/>
-  <img src="images/gifs/quaternions_3d.gif" alt="Quaternion in 3D" width="300"/>
-  <img src="images/gifs/rotation_vectors.gif" alt="Axis-angle representation" width="300"/>
+  <img src="images/gifs/euler_angles.gif" alt="Euler angle" width="200"/>
+  <img src="images/gifs/quaternions_3d.gif" alt="Quaternion in 3D" width="200"/>
+  <img src="images/gifs/rotation_vectors.gif" alt="Axis-angle representation" width="200"/>
 </p>
